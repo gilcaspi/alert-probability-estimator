@@ -48,6 +48,11 @@ end_date = st.date_input("Select End Date", value=pd.to_datetime('2024-11-24'))
 # Input 3: Planned hour
 selected_time = st.time_input("Select a time:", value="now", step=60*60)
 
+# Input 4: Get threshold from user
+user_threshold = st.number_input("Enter a threshold for decision making, as a float in [%]:", value=0.1)
+st.write(f"User decision threshold is: {user_threshold}")
+
+
 # Filter the DataFrame by date range and city
 filtered_df = df[
     (df[DATE_KEY] >= pd.to_datetime(start_date)) &
@@ -130,3 +135,21 @@ st.metric(
     label="Probability in %"
 )
 
+
+st.write(f"### The probability [%] to alert at {selected_time} in {selected_city}")
+st.metric(
+    value=probability_in_percent,
+    label="Probability in %"
+)
+
+# Display status with color
+st.write()
+st.write(f"### The recommended decision")
+if probability_in_percent < user_threshold:
+    st.markdown("<span style='color: green; font-size: 40px;'>Do It!</span>", unsafe_allow_html=True)
+elif probability_in_percent == user_threshold:
+    st.markdown("<span style='color: yellow; font-size: 40px;'>Re-think about it</span>", unsafe_allow_html=True)
+elif probability_in_percent > user_threshold:
+    st.markdown("<span style='color: red; font-size: 40px;'>Don't</span>", unsafe_allow_html=True)
+else:
+    st.markdown("<span style='color: gray; font-size: 40px;'>Unknown</span>", unsafe_allow_html=True)
