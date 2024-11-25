@@ -1,0 +1,30 @@
+[
+    {
+        "data": "להבות חביבה",
+        "date": "24.11.2024",
+        "time": "18:47:10",
+        "alertDate": "2024-11-24T18:47:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 52422,
+        "NAME_HE": "להבות חביבה",
+        "NAME_EN": "Lehavot Haviva",
+        "NAME_AR": "لهافوت حبيية",
+        "NAME_RU": "Лехавот Хавива"
+    },
+    {
+        "data": "להבות חביבה",
+        "date": "14.10.2024",
+        "time": "11:19:52",
+        "alertDate": "2024-10-14T11:20:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44237,
+        "NAME_HE": "להבות חביבה",
+        "NAME_EN": "Lehavot Haviva",
+        "NAME_AR": "لهافوت حبيية",
+        "NAME_RU": "Лехавот Хавива"
+    }
+]

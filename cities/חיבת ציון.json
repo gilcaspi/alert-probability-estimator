@@ -1,0 +1,72 @@
+[
+    {
+        "data": "חיבת ציון",
+        "date": "24.11.2024",
+        "time": "18:47:10",
+        "alertDate": "2024-11-24T18:47:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 52445,
+        "NAME_HE": "חיבת ציון",
+        "NAME_EN": "Hibat Zion",
+        "NAME_AR": "حيفات تسيون",
+        "NAME_RU": "Хибат Цион"
+    },
+    {
+        "data": "חיבת ציון",
+        "date": "13.11.2024",
+        "time": "17:44:26",
+        "alertDate": "2024-11-13T17:44:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 50612,
+        "NAME_HE": "חיבת ציון",
+        "NAME_EN": "Hibat Zion",
+        "NAME_AR": "حيفات تسيون",
+        "NAME_RU": "Хибат Цион"
+    },
+    {
+        "data": "חיבת ציון",
+        "date": "30.10.2024",
+        "time": "06:17:13",
+        "alertDate": "2024-10-30T06:17:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 47997,
+        "NAME_HE": "חיבת ציון",
+        "NAME_EN": "Hibat Zion",
+        "NAME_AR": "حيفات تسيون",
+        "NAME_RU": "Хибат Цион"
+    },
+    {
+        "data": "חיבת ציון",
+        "date": "14.10.2024",
+        "time": "17:36:06",
+        "alertDate": "2024-10-14T17:36:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44535,
+        "NAME_HE": "חיבת ציון",
+        "NAME_EN": "Hibat Zion",
+        "NAME_AR": "حيفات تسيون",
+        "NAME_RU": "Хибат Цион"
+    },
+    {
+        "data": "חיבת ציון",
+        "date": "14.10.2024",
+        "time": "11:20:41",
+        "alertDate": "2024-10-14T11:21:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44256,
+        "NAME_HE": "חיבת ציון",
+        "NAME_EN": "Hibat Zion",
+        "NAME_AR": "حيفات تسيون",
+        "NAME_RU": "Хибат Цион"
+    }
+]

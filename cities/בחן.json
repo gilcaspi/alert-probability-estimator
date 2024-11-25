@@ -1,0 +1,72 @@
+[
+    {
+        "data": "בחן",
+        "date": "24.11.2024",
+        "time": "18:47:10",
+        "alertDate": "2024-11-24T18:47:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 52430,
+        "NAME_HE": "בחן",
+        "NAME_EN": "Bahan",
+        "NAME_AR": "بلدة بوحن",
+        "NAME_RU": "Бахан"
+    },
+    {
+        "data": "בחן",
+        "date": "24.11.2024",
+        "time": "18:10:43",
+        "alertDate": "2024-11-24T18:11:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 52356,
+        "NAME_HE": "בחן",
+        "NAME_EN": "Bahan",
+        "NAME_AR": "بلدة بوحن",
+        "NAME_RU": "Бахан"
+    },
+    {
+        "data": "בחן",
+        "date": "14.10.2024",
+        "time": "17:33:56",
+        "alertDate": "2024-10-14T17:34:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44479,
+        "NAME_HE": "בחן",
+        "NAME_EN": "Bahan",
+        "NAME_AR": "بلدة بوحن",
+        "NAME_RU": "Бахан"
+    },
+    {
+        "data": "בחן",
+        "date": "14.10.2024",
+        "time": "11:19:52",
+        "alertDate": "2024-10-14T11:20:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44240,
+        "NAME_HE": "בחן",
+        "NAME_EN": "Bahan",
+        "NAME_AR": "بلدة بوحن",
+        "NAME_RU": "Бахан"
+    },
+    {
+        "data": "בחן",
+        "date": "01.10.2024",
+        "time": "18:38:25",
+        "alertDate": "2024-10-01T18:38:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 39672,
+        "NAME_HE": "בחן",
+        "NAME_EN": "Bahan",
+        "NAME_AR": "بلدة بوحن",
+        "NAME_RU": "Бахан"
+    }
+]

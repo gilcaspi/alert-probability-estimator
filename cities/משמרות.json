@@ -1,0 +1,58 @@
+[
+    {
+        "data": "משמרות",
+        "date": "24.11.2024",
+        "time": "07:28:19",
+        "alertDate": "2024-11-24T07:28:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 52012,
+        "NAME_HE": "משמרות",
+        "NAME_EN": "Mishmarot",
+        "NAME_AR": "مشمورت",
+        "NAME_RU": "Мишмарот"
+    },
+    {
+        "data": "משמרות",
+        "date": "13.11.2024",
+        "time": "17:44:26",
+        "alertDate": "2024-11-13T17:44:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 50587,
+        "NAME_HE": "משמרות",
+        "NAME_EN": "Mishmarot",
+        "NAME_AR": "مشمورت",
+        "NAME_RU": "Мишмарот"
+    },
+    {
+        "data": "משמרות",
+        "date": "25.10.2024",
+        "time": "06:46:56",
+        "alertDate": "2024-10-25T06:47:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 47075,
+        "NAME_HE": "משמרות",
+        "NAME_EN": "Mishmarot",
+        "NAME_AR": "مشمورت",
+        "NAME_RU": "Мишмарот"
+    },
+    {
+        "data": "משמרות",
+        "date": "01.10.2024",
+        "time": "19:39:57",
+        "alertDate": "2024-10-01T19:40:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 40523,
+        "NAME_HE": "משמרות",
+        "NAME_EN": "Mishmarot",
+        "NAME_AR": "مشمورت",
+        "NAME_RU": "Мишмарот"
+    }
+]

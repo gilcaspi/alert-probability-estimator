@@ -1,0 +1,72 @@
+[
+    {
+        "data": "לבנים",
+        "date": "24.11.2024",
+        "time": "14:33:12",
+        "alertDate": "2024-11-24T14:33:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 52256,
+        "NAME_HE": "לבנים",
+        "NAME_EN": "Livnim",
+        "NAME_AR": "لبنيم",
+        "NAME_RU": "Ливним"
+    },
+    {
+        "data": "לבנים",
+        "date": "17.10.2024",
+        "time": "03:28:33",
+        "alertDate": "2024-10-17T03:29:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 45055,
+        "NAME_HE": "לבנים",
+        "NAME_EN": "Livnim",
+        "NAME_AR": "لبنيم",
+        "NAME_RU": "Ливним"
+    },
+    {
+        "data": "לבנים",
+        "date": "01.10.2024",
+        "time": "19:52:24",
+        "alertDate": "2024-10-01T19:52:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 41136,
+        "NAME_HE": "לבנים",
+        "NAME_EN": "Livnim",
+        "NAME_AR": "لبنيم",
+        "NAME_RU": "Ливним"
+    },
+    {
+        "data": "לבנים",
+        "date": "18.09.2024",
+        "time": "04:36:25",
+        "alertDate": "2024-09-18T04:36:00",
+        "category": 2,
+        "category_desc": "חדירת כלי טיס עוין",
+        "matrix_id": 6,
+        "rid": 36337,
+        "NAME_HE": "לבנים",
+        "NAME_EN": "Livnim",
+        "NAME_AR": "لبنيم",
+        "NAME_RU": "Ливним"
+    },
+    {
+        "data": "לבנים",
+        "date": "24.02.2024",
+        "time": "23:30:24",
+        "alertDate": "2024-02-24T23:30:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 28298,
+        "NAME_HE": "לבנים",
+        "NAME_EN": "Livnim",
+        "NAME_AR": "لبنيم",
+        "NAME_RU": "Ливним"
+    }
+]

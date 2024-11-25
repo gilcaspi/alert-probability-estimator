@@ -1,0 +1,58 @@
+[
+    {
+        "data": "אחיטוב",
+        "date": "24.11.2024",
+        "time": "18:47:10",
+        "alertDate": "2024-11-24T18:47:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 52424,
+        "NAME_HE": "אחיטוב",
+        "NAME_EN": "Ahituv",
+        "NAME_AR": "أحيطوف",
+        "NAME_RU": "Ахитув"
+    },
+    {
+        "data": "אחיטוב",
+        "date": "30.10.2024",
+        "time": "06:17:13",
+        "alertDate": "2024-10-30T06:17:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 47977,
+        "NAME_HE": "אחיטוב",
+        "NAME_EN": "Ahituv",
+        "NAME_AR": "أحيطوف",
+        "NAME_RU": "Ахитув"
+    },
+    {
+        "data": "אחיטוב",
+        "date": "14.10.2024",
+        "time": "17:33:27",
+        "alertDate": "2024-10-14T17:33:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44421,
+        "NAME_HE": "אחיטוב",
+        "NAME_EN": "Ahituv",
+        "NAME_AR": "أحيطوف",
+        "NAME_RU": "Ахитув"
+    },
+    {
+        "data": "אחיטוב",
+        "date": "14.10.2024",
+        "time": "11:19:52",
+        "alertDate": "2024-10-14T11:20:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44238,
+        "NAME_HE": "אחיטוב",
+        "NAME_EN": "Ahituv",
+        "NAME_AR": "أحيطوف",
+        "NAME_RU": "Ахитув"
+    }
+]

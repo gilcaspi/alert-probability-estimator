@@ -1,0 +1,72 @@
+[
+    {
+        "data": "שער אפרים",
+        "date": "24.11.2024",
+        "time": "18:10:43",
+        "alertDate": "2024-11-24T18:11:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 52353,
+        "NAME_HE": "שער אפרים",
+        "NAME_EN": "Sha'ar Efraim",
+        "NAME_AR": "شاعر إفرايم",
+        "NAME_RU": "Шаар Эфраим"
+    },
+    {
+        "data": "שער אפרים",
+        "date": "06.11.2024",
+        "time": "11:21:23",
+        "alertDate": "2024-11-06T11:21:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 49162,
+        "NAME_HE": "שער אפרים",
+        "NAME_EN": "Sha'ar Efraim",
+        "NAME_AR": "شاعر إفرايم",
+        "NAME_RU": "Шаар Эфраим"
+    },
+    {
+        "data": "שער אפרים",
+        "date": "14.10.2024",
+        "time": "17:33:29",
+        "alertDate": "2024-10-14T17:33:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44443,
+        "NAME_HE": "שער אפרים",
+        "NAME_EN": "Sha'ar Efraim",
+        "NAME_AR": "شاعر إفرايم",
+        "NAME_RU": "Шаар Эфраим"
+    },
+    {
+        "data": "שער אפרים",
+        "date": "14.10.2024",
+        "time": "11:19:52",
+        "alertDate": "2024-10-14T11:20:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44236,
+        "NAME_HE": "שער אפרים",
+        "NAME_EN": "Sha'ar Efraim",
+        "NAME_AR": "شاعر إفرايم",
+        "NAME_RU": "Шаар Эфраим"
+    },
+    {
+        "data": "שער אפרים",
+        "date": "01.10.2024",
+        "time": "18:38:25",
+        "alertDate": "2024-10-01T18:38:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 39659,
+        "NAME_HE": "שער אפרים",
+        "NAME_EN": "Sha'ar Efraim",
+        "NAME_AR": "شاعر إفرايم",
+        "NAME_RU": "Шаар Эфраим"
+    }
+]

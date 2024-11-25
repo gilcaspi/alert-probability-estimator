@@ -1,0 +1,72 @@
+[
+    {
+        "data": "המעפיל",
+        "date": "24.11.2024",
+        "time": "18:47:10",
+        "alertDate": "2024-11-24T18:47:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 52441,
+        "NAME_HE": "המעפיל",
+        "NAME_EN": "HaMa'apil",
+        "NAME_AR": "همفعيل",
+        "NAME_RU": "ха-Маапиль"
+    },
+    {
+        "data": "המעפיל",
+        "date": "24.11.2024",
+        "time": "07:28:32",
+        "alertDate": "2024-11-24T07:29:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 52014,
+        "NAME_HE": "המעפיל",
+        "NAME_EN": "HaMa'apil",
+        "NAME_AR": "همفعيل",
+        "NAME_RU": "ха-Маапиль"
+    },
+    {
+        "data": "המעפיל",
+        "date": "30.10.2024",
+        "time": "06:17:13",
+        "alertDate": "2024-10-30T06:17:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 47992,
+        "NAME_HE": "המעפיל",
+        "NAME_EN": "HaMa'apil",
+        "NAME_AR": "همفعيل",
+        "NAME_RU": "ха-Маапиль"
+    },
+    {
+        "data": "המעפיל",
+        "date": "14.10.2024",
+        "time": "17:33:27",
+        "alertDate": "2024-10-14T17:33:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44424,
+        "NAME_HE": "המעפיל",
+        "NAME_EN": "HaMa'apil",
+        "NAME_AR": "همفعيل",
+        "NAME_RU": "ха-Маапиль"
+    },
+    {
+        "data": "המעפיל",
+        "date": "14.10.2024",
+        "time": "11:19:52",
+        "alertDate": "2024-10-14T11:20:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44243,
+        "NAME_HE": "המעפיל",
+        "NAME_EN": "HaMa'apil",
+        "NAME_AR": "همفعيل",
+        "NAME_RU": "ха-Маапиль"
+    }
+]

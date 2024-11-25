@@ -1,0 +1,58 @@
+[
+    {
+        "data": "שדה יצחק",
+        "date": "24.11.2024",
+        "time": "18:47:10",
+        "alertDate": "2024-11-24T18:47:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 52459,
+        "NAME_HE": "שדה יצחק",
+        "NAME_EN": "Sdeh Itzhak",
+        "NAME_AR": "سديه يتسحاق",
+        "NAME_RU": "Сдэ Ицхак"
+    },
+    {
+        "data": "שדה יצחק",
+        "date": "30.10.2024",
+        "time": "06:17:13",
+        "alertDate": "2024-10-30T06:17:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 48010,
+        "NAME_HE": "שדה יצחק",
+        "NAME_EN": "Sdeh Itzhak",
+        "NAME_AR": "سديه يتسحاق",
+        "NAME_RU": "Сдэ Ицхак"
+    },
+    {
+        "data": "שדה יצחק",
+        "date": "14.10.2024",
+        "time": "17:33:27",
+        "alertDate": "2024-10-14T17:33:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44427,
+        "NAME_HE": "שדה יצחק",
+        "NAME_EN": "Sdeh Itzhak",
+        "NAME_AR": "سديه يتسحاق",
+        "NAME_RU": "Сдэ Ицхак"
+    },
+    {
+        "data": "שדה יצחק",
+        "date": "14.10.2024",
+        "time": "11:20:25",
+        "alertDate": "2024-10-14T11:20:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44249,
+        "NAME_HE": "שדה יצחק",
+        "NAME_EN": "Sdeh Itzhak",
+        "NAME_AR": "سديه يتسحاق",
+        "NAME_RU": "Сдэ Ицхак"
+    }
+]

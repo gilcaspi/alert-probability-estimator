@@ -1,0 +1,72 @@
+[
+    {
+        "data": "גאולי תימן",
+        "date": "24.11.2024",
+        "time": "18:47:10",
+        "alertDate": "2024-11-24T18:47:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 52435,
+        "NAME_HE": "גאולי תימן",
+        "NAME_EN": "Geulei Teiman",
+        "NAME_AR": "جئولي تيمان",
+        "NAME_RU": "Геулей Тейман"
+    },
+    {
+        "data": "גאולי תימן",
+        "date": "13.11.2024",
+        "time": "17:44:26",
+        "alertDate": "2024-11-13T17:44:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 50601,
+        "NAME_HE": "גאולי תימן",
+        "NAME_EN": "Geulei Teiman",
+        "NAME_AR": "جئولي تيمان",
+        "NAME_RU": "Геулей Тейман"
+    },
+    {
+        "data": "גאולי תימן",
+        "date": "30.10.2024",
+        "time": "06:17:13",
+        "alertDate": "2024-10-30T06:17:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 47986,
+        "NAME_HE": "גאולי תימן",
+        "NAME_EN": "Geulei Teiman",
+        "NAME_AR": "جئولي تيمان",
+        "NAME_RU": "Геулей Тейман"
+    },
+    {
+        "data": "גאולי תימן",
+        "date": "14.10.2024",
+        "time": "17:34:38",
+        "alertDate": "2024-10-14T17:35:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44485,
+        "NAME_HE": "גאולי תימן",
+        "NAME_EN": "Geulei Teiman",
+        "NAME_AR": "جئولي تيمان",
+        "NAME_RU": "Геулей Тейман"
+    },
+    {
+        "data": "גאולי תימן",
+        "date": "14.10.2024",
+        "time": "11:20:41",
+        "alertDate": "2024-10-14T11:21:00",
+        "category": 1,
+        "category_desc": "ירי רקטות וטילים",
+        "matrix_id": 1,
+        "rid": 44255,
+        "NAME_HE": "גאולי תימן",
+        "NAME_EN": "Geulei Teiman",
+        "NAME_AR": "جئولي تيمان",
+        "NAME_RU": "Геулей Тейман"
+    }
+]
